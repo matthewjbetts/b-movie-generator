@@ -1,7 +1,3 @@
-% Autogenerate title for B-movies
-% Matthew Betts, bettsmatthew@googlemail.com
-% \today
-
 # Introduction
 
 Surely films with titles like [Avalanche
